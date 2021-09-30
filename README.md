@@ -1,2 +1,4 @@
 # COSC-3090
-My coarse work for COSC 3090 Bioinformatics Algorithms
+My Homework Assignements for COSC 3090 Bioinformatics Algorithms On Rosalind
+
+http://rosalind.info/problems/list-view/?location=bioinformatics-textbook-track
